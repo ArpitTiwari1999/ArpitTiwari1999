@@ -26,11 +26,8 @@ I'm an MBA student at Concordia University in Montreal, Canada, expected to grad
 
 ### Projects
 
-#### [MyPofo](https://github.com/yourusername/MyPofo)
+#### [MyPofo](https://mypofo.netlify.app)
 A platform offering IT solutions.
-
-#### [TvB! in Canada](https://www.youtube.com/channel/UC_YOUR_CHANNEL)
-A YouTube channel sharing experiences and tips for living in Canada.
 
 ## 💼 Experience
 
