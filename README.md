@@ -1,5 +1,5 @@
 # Hi, I'm Arpit Tiwari! 👋
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+my+GitHub+Profile)
+![Profile Banner](https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph-960x960.jpg)
 
 I'm an MBA student at Concordia University in Montreal, Canada, expected to graduate in December 2025. I have a background in Computer Science and Engineering from Chandigarh University in India.
 
