@@ -1,7 +1,7 @@
 # Hi, I'm Arpit Tiwari! 👋
 
 ![Profile Banner]([https://via.placeholder.com/1000x300.png?text=Welcome+to+my+GitHub+Profile](https://media.licdn.com/dms/image/D5616AQHZMyfjvVMkxw/profile-displaybackgroundimage-shrink_350_1400/0/1722275368117?e=1728518400&v=beta&t=xuYHLaG3rLmQ1ey0Xllv0rsTJyudiydcATNsN4hHgOc))
-![Profile Banner]([https://media.licdn.com/dms/image/D5616AQHZMyfjvVMkxw/profile-displaybackgroundimage-shrink_350_1400/0/1722275368117?e=1728518400&v=beta&t=xuYHLaG3rLmQ1ey0Xllv0rsTJyudiydcATNsN4hHgOc)
+![Profile Banner]([https://media.licdn.com/dms/image/D5616AQHZMyfjvVMkxw/profile-displaybackgroundimage-shrink_350_1400/0/1722275368117?e=1728518400&v=beta&t=xuYHLaG3rLmQ1ey0Xllv0rsTJyudiydcATNsN4hHgOc])
 
 I'm an MBA student at Concordia University in Montreal, Canada, expected to graduate in December 2025. I have a background in Computer Science and Engineering from Chandigarh University in India.
 
