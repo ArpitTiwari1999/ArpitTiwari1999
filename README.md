@@ -55,7 +55,7 @@ A platform offering IT solutions.
 
 ## 📈 GitHub Stats
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitTiwari1999&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 
