@@ -29,6 +29,12 @@ I'm an MBA student at Concordia University in Montreal, Canada, expected to grad
 #### [MyPofo](https://mypofo.netlify.app)
 A platform offering IT solutions.
 
+#### [Aspizo](http://aspizo.in)
+Portfolio webpage for a client
+
+#### [Aspizo Data Entry](http://aspizo.in/data_entry)
+Open source webpage to render data-entry 
+
 ## 💼 Experience
 
 ### Avo Automation
